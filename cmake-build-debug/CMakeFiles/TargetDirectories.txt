@@ -1,0 +1,3 @@
+C:/Users/khine/CLionProjects/2022CCollections/cmake-build-debug/CMakeFiles/2022CCollections.dir
+C:/Users/khine/CLionProjects/2022CCollections/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/khine/CLionProjects/2022CCollections/cmake-build-debug/CMakeFiles/rebuild_cache.dir

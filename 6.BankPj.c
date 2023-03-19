@@ -160,7 +160,7 @@ void registration(){
 
 }
 
-int charCounting(char toCount[50]){ // toCount[50] = {'w','i','n','@'gmail.com,'\0' , '\0'}
+int charCounting(char toCount[50]){ // toCount[50] = {'k','h','i','n','e','@'gmail.com,'\0' , '\0'}
     int charCount = 0;
     for(int gcc=0; gcc<50 ; gcc++){
 
